@@ -1,0 +1,35 @@
+{
+  "status": "COMPLETE_RECOVERY_SET_UNMERGED",
+  "recovered_question_prologues": 509,
+  "exception_ledger_resolved": 509,
+  "manual_ocr_context_admissions": 3,
+  "page_image_verified": 0,
+  "page_image_not_completed_due_archive_viewer_timeout": 3,
+  "parts": {
+    "I": 17,
+    "I-II": 114,
+    "II-II": 189,
+    "III": 90,
+    "Supplement": 99
+  },
+  "historical_source_volumes": {
+    "sumatheologicaof0014unse": 19,
+    "summatheologi08thom": 25,
+    "summatheologi18thom": 40,
+    "summatheologic16thom": 33,
+    "summatheologicao0006thom": 48,
+    "summatheologicao0007thom": 41,
+    "summatheologicao0009thom": 46,
+    "summatheologicao0010thom": 33,
+    "summatheologicao0011thom": 21,
+    "summatheologicao0012thom": 40,
+    "summatheologicao0013thom": 30,
+    "summatheologicao0015taqu": 26,
+    "summatheologicao0017thom": 24,
+    "summatheologicao0019thom": 35,
+    "summatheologicao0020thom": 18,
+    "summatheologicao0021thom": 13,
+    "summatheologicao05thom": 17
+  },
+  "all_records_sha256": "95ac0d60c7addd44485b4320389612ff961913f430cbc83e6dcbdd3c7f8970a2"
+}

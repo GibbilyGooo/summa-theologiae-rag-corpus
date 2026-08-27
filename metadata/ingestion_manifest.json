@@ -1,0 +1,16 @@
+{
+  "release": "summa_theologiae_rag_ingestion_ready_v3",
+  "status": "VERIFIED_CORPUS_WITH_UNEMBEDDED_RAG_INGESTION_LAYER",
+  "source_release": "summa_theologiae_final_verified_v2",
+  "total_staging_records": 24611,
+  "record_type_counts": {
+    "part_prologue": 3,
+    "question_prologue": 611,
+    "article_section": 23997
+  },
+  "stable_id_scheme": "st-v3::{part}::qNNN::{question-prologue | aNNN::section}; part prologues use st-v3::{part}::part-prologue",
+  "order": "part prologue, then question prologue, then source-ordered article sections",
+  "embedding_status": "NOT_EMBEDDED",
+  "vector_database_status": "NOT_CREATED",
+  "ingestion_file_sha256": "2a3e874d1dbec3722df093c9c22ecf90a80d700c7db90c5dcaca35c128a6e788"
+}

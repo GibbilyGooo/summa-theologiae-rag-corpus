@@ -1,0 +1,64 @@
+{
+  "release": "summa_theologiae_rag_ingestion_ready_v3",
+  "status": "VERIFIED_FINAL_RELEASE_WITH_UNEMBEDDED_RAG_STAGING",
+  "core_status": "FROZEN_BYTE_IDENTICAL_COPY",
+  "core_records": 23997,
+  "core_file_hashes": {
+    "I": {
+      "source_sha256": "ff6bf75427e50bc8130b37b7ba5a49ed282efca955c619b4b438cf17e5553b62",
+      "candidate_sha256": "ff6bf75427e50bc8130b37b7ba5a49ed282efca955c619b4b438cf17e5553b62",
+      "records": 4576
+    },
+    "I-II": {
+      "source_sha256": "15429b3547ac3c81f500d650a96eb712852eefada0b2ebe48c01b5bfffb63379",
+      "candidate_sha256": "15429b3547ac3c81f500d650a96eb712852eefada0b2ebe48c01b5bfffb63379",
+      "records": 4665
+    },
+    "II-II": {
+      "source_sha256": "1026cd67295fe1af52dbdfe58ecf8d76d9208dfbee50a1d6a09598a0718b9bb6",
+      "candidate_sha256": "1026cd67295fe1af52dbdfe58ecf8d76d9208dfbee50a1d6a09598a0718b9bb6",
+      "records": 6943
+    },
+    "III": {
+      "source_sha256": "9c82cbd1253c61056959c3bfb1d01afb5f55787b2149049f6dd70fd78fd5325a",
+      "candidate_sha256": "9c82cbd1253c61056959c3bfb1d01afb5f55787b2149049f6dd70fd78fd5325a",
+      "records": 4400
+    },
+    "Supplement": {
+      "source_sha256": "d50e52f0f95e97e35639c77515f08d001f7107354b551a60151a672fe495b6e1",
+      "candidate_sha256": "d50e52f0f95e97e35639c77515f08d001f7107354b551a60151a672fe495b6e1",
+      "records": 3413
+    }
+  },
+  "approved_legacy_prologues": 105,
+  "recovered_question_prologues": 509,
+  "total_prologues": 614,
+  "total_merged_records": 24611,
+  "legacy_prologue_counts": {
+    "I": 103,
+    "I-II": 1,
+    "II-II": 0,
+    "III": 1,
+    "Supplement": 0
+  },
+  "recovered_prologue_counts": {
+    "I": 17,
+    "I-II": 114,
+    "II-II": 189,
+    "III": 90,
+    "Supplement": 99
+  },
+  "resolved_exception_count": 509,
+  "recovered_source_witnesses": 17,
+  "manual_ocr_context_admissions": 3,
+  "page_image_verification_note": "All three formerly qualified records now have direct visual verification against retained historical page images.",
+  "compatibility": "Core JSONL schema unchanged. Prologues use the previously approved prologue JSONL schema and are stored in a separate prologues directory for controlled downstream ingestion.",
+  "page_image_verified_manual_records": 3,
+  "previous_candidate_archive_sha256": "f02310bd989df7343edcb2e9c542d2197d17816d4848907b769bb17433c196fc",
+  "rag_staging_manifest": "rag_staging/ingestion_manifest.json",
+  "rag_staging_records": 24611,
+  "embedding_status": "NOT_EMBEDDED",
+  "vector_database_status": "NOT_CREATED",
+  "rag_ingestion_audit": "reports/rag_ingestion_layer_audit.json",
+  "rag_ingestion_status_note": "reports/RAG_INGESTION_STATUS.md"
+}

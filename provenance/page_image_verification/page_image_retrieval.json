@@ -1,0 +1,44 @@
+[
+  {
+    "citation": "ST II-II, Q.5, Prologue",
+    "identifier": "summatheologicao0009thom",
+    "server": "ia600703.us.archive.org",
+    "item_dir": "/11/items/summatheologicao0009thom",
+    "printed_page": "75",
+    "leaf_num": 85,
+    "page_numbers_url": "https://archive.org/download/summatheologicao0009thom/summatheologicao0009thom_page_numbers.json",
+    "bookreader_image_url": "https://ia600703.us.archive.org/BookReader/BookReaderImages.php?zip=%2F11%2Fitems%2Fsummatheologicao0009thom%2Fsummatheologicao0009thom_jp2.zip&file=summatheologicao0009thom_jp2%2Fsummatheologicao0009thom_0085.jp2&id=summatheologicao0009thom&scale=4&rotate=0",
+    "image_path": "provenance/page_image_verification/summatheologicao0009thom_leaf_0085_printed_75.jpg",
+    "image_content_type": "image/jpeg",
+    "image_sha256": "6eb6f463249c4f78094c87bc5022f84f6a9a93536840bcecc5bf787a1f0c8724",
+    "image_bytes": 56904
+  },
+  {
+    "citation": "ST II-II, Q.159, Prologue",
+    "identifier": "summatheologicao0013thom",
+    "server": "ia600808.us.archive.org",
+    "item_dir": "/11/items/summatheologicao0013thom",
+    "printed_page": "207",
+    "leaf_num": 219,
+    "page_numbers_url": "https://archive.org/download/summatheologicao0013thom/summatheologicao0013thom_page_numbers.json",
+    "bookreader_image_url": "https://ia600808.us.archive.org/BookReader/BookReaderImages.php?zip=%2F11%2Fitems%2Fsummatheologicao0013thom%2Fsummatheologicao0013thom_jp2.zip&file=summatheologicao0013thom_jp2%2Fsummatheologicao0013thom_0219.jp2&id=summatheologicao0013thom&scale=4&rotate=0",
+    "image_path": "provenance/page_image_verification/summatheologicao0013thom_leaf_0219_printed_207.jpg",
+    "image_content_type": "image/jpeg",
+    "image_sha256": "f2cff7fea8a81bb8d9bacfd9fe4b34d65aea0f0200a8d904ccc7355979084c39",
+    "image_bytes": 62459
+  },
+  {
+    "citation": "ST III, Q.29, Prologue",
+    "identifier": "summatheologic16thom",
+    "server": "ia600804.us.archive.org",
+    "item_dir": "/35/items/summatheologic16thom",
+    "printed_page": "33",
+    "leaf_num": 49,
+    "page_numbers_url": "https://archive.org/download/summatheologic16thom/summatheologic16thom_page_numbers.json",
+    "bookreader_image_url": "https://ia600804.us.archive.org/BookReader/BookReaderImages.php?zip=%2F35%2Fitems%2Fsummatheologic16thom%2Fsummatheologic16thom_jp2.zip&file=summatheologic16thom_jp2%2Fsummatheologic16thom_0049.jp2&id=summatheologic16thom&scale=4&rotate=0",
+    "image_path": "provenance/page_image_verification/summatheologic16thom_leaf_0049_printed_33.jpg",
+    "image_content_type": "image/jpeg",
+    "image_sha256": "47deca99598be66773a764a5618c4a4db19feed19a5d8776e3285b6963b528e9",
+    "image_bytes": 67801
+  }
+]

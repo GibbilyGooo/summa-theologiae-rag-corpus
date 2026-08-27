@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this corpus, please cite it and the canonical Summa loci used in your work."
+title: "Summa Theologiae Canonical RAG Corpus"
+version: 3.0.0
+date-released: 2026-08-27
+type: dataset
+authors:
+  - name: "AD IPSUM"
+repository-code: "https://github.com/GibbilyGooo/summa-theologiae-rag-corpus"
+url: "https://github.com/GibbilyGooo/summa-theologiae-rag-corpus"
+license: CC0-1.0
+keywords:
+  - Thomas Aquinas
+  - Summa Theologiae
+  - Catholic theology
+  - retrieval-augmented generation
+  - RAG
+  - corpus
+  - natural language processing

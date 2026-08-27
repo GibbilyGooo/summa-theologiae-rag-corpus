@@ -1,0 +1,18 @@
+{
+  "release": "summa-theologiae-canonical-rag-corpus-v3.0.0",
+  "release_date": "2026-08-27",
+  "status": "VERIFIED_PUBLIC_RELEASE",
+  "author": "Thomas Aquinas",
+  "translation": "Fathers of the English Dominican Province",
+  "core_records": 23997,
+  "prologue_records": 614,
+  "total_records": 24611,
+  "source_text_words": 2517850,
+  "question_groups": 611,
+  "ingestion_file": "data/rag/records.jsonl",
+  "ingestion_file_bytes": 38085798,
+  "ingestion_file_sha256": "2a3e874d1dbec3722df093c9c22ecf90a80d700c7db90c5dcaca35c128a6e788",
+  "embedding_status": "NOT_EMBEDDED",
+  "vector_database_status": "NOT_CREATED",
+  "repository": "https://github.com/GibbilyGooo/summa-theologiae-rag-corpus"
+}

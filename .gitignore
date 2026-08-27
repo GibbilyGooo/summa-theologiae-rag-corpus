@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+build/
+.DS_Store
+.venv/
+venv/
+*.sqlite
+*.db
+*.index
+*.embeddings
+.env
+.env.*
+!.env.example

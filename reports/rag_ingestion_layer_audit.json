@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "release": "summa_theologiae_rag_ingestion_ready_v3",
+  "staging_records": 24611,
+  "stable_document_ids": 24611,
+  "canonical_order": "PASS",
+  "source_text_traceability": "PASS",
+  "question_groups": 611,
+  "record_type_counts": {
+    "part_prologue": 3,
+    "question_prologue": 611,
+    "article_section": 23997
+  },
+  "embedding_status": "NOT_EMBEDDED",
+  "vector_database_status": "NOT_CREATED",
+  "hard_issues": 0
+}

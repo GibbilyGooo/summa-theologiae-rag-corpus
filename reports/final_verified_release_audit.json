@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "release": "summa_theologiae_final_verified_v2",
+  "core_byte_identical": true,
+  "approved_legacy_prologues_exactly_retained": 105,
+  "recovered_question_prologues": 509,
+  "total_prologues": 614,
+  "verified_page_image_records": 3,
+  "total_records": 24611,
+  "zip_sha256": "e8eecc076996882a94a063adbb63e7ccd17dfd3e0973f53e69e984d1e1071cd5",
+  "hard_issues": 0
+}

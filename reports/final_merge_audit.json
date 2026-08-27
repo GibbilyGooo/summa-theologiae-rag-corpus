@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "core_files_byte_identical": true,
+  "core_records": 23997,
+  "approved_prologues_exactly_retained": 105,
+  "recovered_prologues": 509,
+  "total_prologues": 614,
+  "resolved_exceptions": 509,
+  "manual_ocr_context_admissions": 3,
+  "total_merge_candidate_records": 24611,
+  "zip_sha256": "f02310bd989df7343edcb2e9c542d2197d17816d4848907b769bb17433c196fc",
+  "zip_bytes": 7229252,
+  "hard_issues": 0
+}

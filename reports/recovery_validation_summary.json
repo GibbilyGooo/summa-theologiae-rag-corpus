@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "recovered_records": 509,
+  "exceptions_resolved": 509,
+  "distinct_citations": 509,
+  "provenance_records": 509,
+  "comparison_text_matches": 509,
+  "source_witnesses": 17,
+  "manual_ocr_context_admissions": 3,
+  "article_count_warnings": 19,
+  "hard_issues": 0,
+  "recovery_sha256": "95ac0d60c7addd44485b4320389612ff961913f430cbc83e6dcbdd3c7f8970a2"
+}
